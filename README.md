@@ -20,7 +20,7 @@ The decision to keep the lead screw axially fixed, instead of a fixed nut, was m
 <p>Apart from the basic functionality, a base that fixes the vise to the bench was designed. It works like a press, made with a screw, to avoid permanent fixation of the vise, which damages the surface’s integrity.</p>
 <p> Another added functionality is a variable vise angle. This was achieved using a printed pulley which was discarded from another course, and was given a new life. The angle is fixed by lifting the base, which has a key, and turning the pulley into one of the 5 fixed positions, determined by different keyways in the base.</p>
 
-<img src = "imagenes/construccion.png" width = "400"/>
+<img src = "imagenes/construccion.jpeg" width = "400"/>
 
 <img src = "imagenes/fusion1.png" width = "400"/>
 <img src = "imagenes/fusion2.png" width = "400"/>
