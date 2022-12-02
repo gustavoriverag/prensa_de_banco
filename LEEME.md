@@ -15,7 +15,7 @@ Los requerimientos solicitados fueron una abertura mínima de 100 [mm], y que la
 #### &nbsp;&nbsp;&nbsp;&nbsp; Descripción del ensamble
 
 <p>Además de la funcionalidad básica, se diseñó una base que se acopla a la mesa de trabajo con un tornillo, de manera de no perjudicar la integridad de esta con perforaciones. </p>
-<p>Otra funcionalidad añadida fue la posibilidad de cambiar el ángulo de la prensa. Esto se logró con una polea impresa que fue descartada de otro curso, y se aprovechó para este fin. La fijación se logra quitando la base de la prensa, y girando a una de las 5 posiciones predeterminadas.</p>
+<p>Otra funcionalidad añadida fue la posibilidad de cambiar el ángulo de la prensa. Esto se logró con una polea impresa que fue descartada de otro curso, y se aprovechó para este fin. La fijación se logra quitando la base de la prensa, que tiene una chaveta en la parte inferior, y girando a una de las 5 posiciones fijas determinadas por chaveteros en la base. </p>
 
 ![Imagen del ensamble construido](imagenes/construccion.jpg)
 
@@ -104,3 +104,4 @@ Utilizado para los dos tornillos del ensamble.
 #### 13) Tuercas M5 (4)
 
 #### 14) Pernos M3 (8)
+
