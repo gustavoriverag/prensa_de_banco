@@ -110,6 +110,5 @@ Utilizado para los dos tornillos del ensamble.
 
 En el transcurso del trabajo, se imprimieron diversas piezas en una impresora 3D “Creality Ender 3 V2”, perteneciente a uno de los integrantes del grupo. A continuación se presentan algunas imágenes del proceso de impresión:
 
-![Imagen del ensamble en Fusion360](imagenes/imagen1.jpg)
-
-![Imagen del ensamble en Fusion360](imagenes/imagen2.jpg)
+<img src = "imagenes/imagen1.jpg" width = "300"/>
+<img src = "imagenes/imagen2.jpg" width = "300"/>
