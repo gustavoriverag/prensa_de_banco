@@ -109,5 +109,6 @@ Used for both of the assembly's screws.
 
 ### Printing process
 The printing was done in a Creality Ender 3 V2 3D printer, owned by a team member. Pictures of the process are presented next:
+
 <img src = "imagenes/imagen1.jpg" width = "300"/>
 <img src = "imagenes/imagen2.jpg" width = "300"/>
