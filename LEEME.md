@@ -27,9 +27,9 @@ Los requerimientos solicitados fueron una abertura mínima de 100 [mm], y que la
 
 En el transcurso del trabajo, se imprimieron diversas piezas en una impresora 3D “Creality Ender 3 V2”, perteneciente a uno de los integrantes del grupo. A continuación se presentan algunas imágenes del proceso de impresión:
 
-![Imagen del ensamble en Fusion360](imagenes/imagen1.png)
+![Imagen del ensamble en Fusion360](imagenes/imagen1.jpg)
 
-![Imagen del ensamble en Fusion360](imagenes/imagen2.png)
+![Imagen del ensamble en Fusion360](imagenes/imagen2.jpg)
 
 
 ### Listado de componentes
