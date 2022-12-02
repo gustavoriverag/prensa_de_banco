@@ -97,10 +97,10 @@ Largo: 300 mm.
 
 Utilizado para los dos tornillos del ensamble.
 
-### 11) Bloques de Rodamientos (2)
+#### 11) Bloques de Rodamientos (2)
 
-### 12) Pernos M5 (4)
+#### 12) Pernos M5 (4)
 
-### 13) Tuercas M5 (4)
+#### 13) Tuercas M5 (4)
 
-### 14) Pernos M3 (8)
+#### 14) Pernos M3 (8)
