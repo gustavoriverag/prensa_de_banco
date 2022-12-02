@@ -26,99 +26,63 @@ Los requerimientos solicitados fueron una abertura mínima de 100 [mm], y que la
 ### Listado de componentes
 
 #### 1)Polea:
-30% de infill.
-
-0.16 mm de calidad. 
-
-No ocupa ni soportes ni base.
+Presenta un 30% de infill; 0.16 mm de calidad; y no ocupa ni soportes ni una base.
 
 Tiempo de impresión: 06:44:00.
 
 Peso de pieza: 58g.
 
 #### 2) Base polea:
-30% de infill.
-
-0.2mm de calidad.
-
-No ocupa ni soportes ni base.
+Presenta un 30% de infill; 0.2mm de calidad; y no ocupa ni soportes ni una base.
 
 Tiempo de impresión: 04:54:00.
 
 Peso de pieza: 44g.
 
 #### 3) Base Prensa:
-30% de infill.
-
-0.2mm de calidad.
-
-No ocupa una base pero si soportes.
+Presenta un 30% de infill; 0.2mm de calidad; no ocupa una base pero si soportes.
 
 Tiempo de impresión: 11:04:00.
 
 Peso de pieza: 98g.
 
 #### 4) Soporte mesa C:
-30% de infill.
-
-0.2mm de calidad.
-
-No ocupa ni soportes ni base.
+Presenta un 30% de infill; 0.2mm de calidad; y no ocupa ni soportes ni una base.
 
 Tiempo de impresión: 04:30:00.
 
 Peso de pieza: 42g.
 
 #### 5) Mordaza fija:
-20% infill.
-
-0.2mm de calidad.
-
-No ocupa ni soportes ni base.
+Presenta un de 20% infill; 0.2mm de calidad; y no ocupa ni soportes ni una base.
 
 Tiempo de impresión: 02:28:00.
 
 Peso de pieza: 22g.
 
 #### 6) Tapa base:
-20% de infill.
-
-0.2mm de calidad. 
-
-No ocupa ni soportes ni base.
+Presenta un 20% de infill; 0.2mm de calidad; y no ocupa ni soportes ni una base.
 
 Tiempo de impresión: 01:22:00.
 
 Peso de pieza: 11g.
 
 #### 7) Mordaza móvil
-30% de infill.
-
-0.2 mm de calidad.
-
-No ocupa ni soportes ni base.
+Presenta un 30% de infill; 0.2 mm de calidad; y no ocupa ni soportes ni una base.
 
 Tiempo de impresión: 01:54:00.
 
 Peso de pieza: 18g.
 
 #### 8) Manivelas:
-20% de infill.
-
-0.2 mm calidad.
-
-No ocupa una base pero si soportes.
+Presenta un 20% de infill; 0.2 mm calidad; no ocupa una base pero si soportes.
 
 Tiempo de impresión: 00:17:00.
 
 Peso de pieza: 2g.
 
 #### 9) Tope:
-20% de infill.
-
-0.2 mm calidad.
-
-No ocupa ni soportes ni base.
+Presenta un 20% de infill; 0.2 mm calidad; y no ocupa ni soportes ni una base.
 
 Tiempo de impresión: 00:37:00.
 
