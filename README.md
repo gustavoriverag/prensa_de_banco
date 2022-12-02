@@ -22,6 +22,7 @@ The decision to keep the lead screw axially fixed, instead of a fixed nut, was m
 
 <img src = "imagenes/construccion.jpeg" width = "400"/>
 
+<img src = "imagenes/construccion2.jpeg" width = "400"/>
 <img src = "imagenes/fusion1.png" width = "400"/>
 <img src = "imagenes/fusion2.png" width = "400"/>
 
