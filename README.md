@@ -20,11 +20,10 @@ The decision to keep the lead screw axially fixed, instead of a fixed nut, was m
 <p>Apart from the basic functionality, a base that fixes the vise to the bench was designed. It works like a press, made with a screw, to avoid permanent fixation of the vise, which damages the surface’s integrity.</p>
 <p> Another added functionality is a variable vise angle. This was achieved using a printed pulley which was discarded from another course, and was given a new life. The angle is fixed by lifting the base, which has a key, and turning the pulley into one of the 5 fixed positions, determined by different keyways in the base.</p>
 
-![Imagen del ensamble construido](imagenes/construccion.jpg)
+<img src = "imagenes/construccion.png" width = "400"/>
 
-![Imagen del ensamble en Fusion360](imagenes/fusion1.png)
-
-![Imagen del ensamble en Fusion360, con la prensa rotada en 90°](imagenes/fusion2.png)
+<img src = "imagenes/fusion1.png" width = "400"/>
+<img src = "imagenes/fusion2.png" width = "400"/>
 
 ### Component list
 
@@ -107,3 +106,8 @@ Used for both of the assembly's screws.
 #### 13) M5 Nuts (4)
 
 #### 14) M3 Bolts (8)
+
+### Printing process
+The printing was done in a Creality Ender 3 V2 3D printer, owned by a team member. Pictures of the process are presented next:
+<img src = "imagenes/imagen1.jpg" width = "300"/>
+<img src = "imagenes/imagen2.jpg" width = "300"/>
