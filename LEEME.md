@@ -17,11 +17,11 @@ Los requerimientos solicitados fueron una abertura mínima de 100 [mm], y que la
 <p>Además de la funcionalidad básica, se diseñó una base que se acopla a la mesa de trabajo con un tornillo, de manera de no perjudicar la integridad de esta con perforaciones. </p>
 <p>Otra funcionalidad añadida fue la posibilidad de cambiar el ángulo de la prensa. Esto se logró con una polea impresa que fue descartada de otro curso, y se aprovechó para este fin. La fijación se logra quitando la base de la prensa, que tiene una chaveta en la parte inferior, y girando a una de las 5 posiciones fijas determinadas por chaveteros en la base. </p>
 
-![Imagen del ensamble construido](imagenes/construccion.jpg)
+<img src = "imagenes/construccion.jpeg" width = "400"/>
 
-![Imagen del ensamble en Fusion360](imagenes/fusion1.png)
-
-![Imagen del ensamble en Fusion360, con la prensa rotada en 90°](imagenes/fusion2.png)
+<img src = "imagenes/construccion2.jpeg" width = "400"/>
+<img src = "imagenes/fusion1.png" width = "400"/>
+<img src = "imagenes/fusion2.png" width = "400"/>
 
 
 ### Listado de componentes
